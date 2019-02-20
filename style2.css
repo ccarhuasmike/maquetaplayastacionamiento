@@ -9,6 +9,74 @@
     text-transform: uppercase;
 }
 
+body {
+    background-color: #a29e9e !important;
+}
+
+.naranja {
+    background-color: hsla(8, 100%, 52%, 0.74);
+}
+
+.celeste {
+    background-color: hsla(213, 100%, 52%, 0.74);
+}
+
+.verde {
+    background-color: hsla(80, 85%, 44%, 0.94)
+}
+
+.amarillo {
+    background-color: hsla(42, 92%, 50%, 0.94);
+}
+
+.container-car {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.cnt-block {
+    float: left;
+    width: 10%;
+    background: #fff;
+    padding: 24px 14px;
+    text-align: center;
+    border: 1px solid #d5d5d5;
+    border-radius: 10px;
+}
+
+.dropup {
+    position: relative;
+    display: inline-block;
+}
+
+.img {
+    margin-top: 12px;
+}
+
+.cnt-block figure {
+    width: 100%;
+    height: 106px;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.cnt-block h3 {
+    color: #2a2a2a;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 1px 12px;
+    text-transform: uppercase;
+    /* color: #2a2a2a;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 6px 0;
+    text-transform: uppercase; */
+}
+
+
+
+
+
 ul {
     margin: 0;
     padding: 0;
