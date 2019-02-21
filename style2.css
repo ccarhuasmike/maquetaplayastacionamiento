@@ -76,7 +76,7 @@ body {
 @media (min-width: 588px) and (max-width: 720px) {
 
     .cnt-block {
-        width: 25% !important;
+        width: 31% !important;
     }
 }
 
@@ -92,7 +92,19 @@ body {
     }
 }
 
-@media (min-width: 921px) and (max-width: 1380px) {
+@media (min-width: 921px) and (max-width: 1030px) {
+    .cnt-block {
+        width: 18% !important;
+    }
+}
+
+@media (min-width: 1031px) and (max-width: 1220px) {
+    .cnt-block {
+        width: 14% !important;
+    }
+}
+
+@media (min-width: 1221px) and (max-width: 1380px) {
     .cnt-block {
         width: 12% !important;
     }
